@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/mbrola.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Messi/Downloads/Compressed/CHatbot/libraries used/okio-1.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
